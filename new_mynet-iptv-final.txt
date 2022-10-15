@@ -1,0 +1,165 @@
+﻿#EXTM3U
+#EXTINF:-1,ATN News
+http://10.252.253.254/hls/atn-news.m3u8
+#EXTINF:-1,Bangla Vision
+http://10.252.253.254/hls/banglavision.m3u8
+#EXTINF:-1,ATN Bangla
+http://10.252.253.254/hls/atn.m3u8
+#EXTINF:-1,Nagorik TV
+http://10.252.253.254/hls/nagoriktv.m3u8
+#EXTINF:-1,Duranta
+http://10.252.253.254/hls/duranta.m3u8
+#EXTINF:-1,Gaan Bangla
+http://10.252.253.254/hls/gb.m3u8
+#EXTINF:-1,Jamuna TV
+http://10.252.253.254/hls/jamuna.m3u8
+#EXTINF:-1,Khushboo
+http://10.252.253.254/hls/khushboo.m3u8
+#EXTINF:-1,Akash 8
+http://10.252.253.254/hls/akash.m3u8
+#EXTINF:-1,Sangeet Bangla
+http://10.252.253.254/hls/sangeetbangla.m3u8
+#EXTINF:-1,Star Jalsha
+http://10.252.253.254/hls/starjalsha.m3u8
+#EXTINF:-1,Zee Bangla
+http://10.252.253.254/hls/zeebanglahd.m3u8
+#EXTINF:-1,Colors Banlga
+http://10.252.253.254/hls/colorsbangla.m3u8
+#EXTINF:-1,Jalsha Movies
+http://10.252.253.254/hls/jalshamovies.m3u8
+#EXTINF:-1,Colors Bangla Cinema
+http://10.252.253.254/hls/colore-bangla-cinema.m3u8
+#EXTINF:-1,Zee Bangla Cinema
+http://10.252.253.254/hls/zee-bangla-cinema.m3u8
+#EXTINF:-1,Somoy TV
+http://10.252.253.254/hls/somoy.m3u8
+#EXTINF:-1,Maasranga
+http://10.252.253.254/hls/masranga.m3u8
+#EXTINF:-1,Channel i
+http://10.252.253.254/hls/channeli.m3u8
+#EXTINF:-1,Ekattor
+http://10.252.253.254/hls/nexus.m3u8
+#EXTINF:-1,Travel XP
+http://10.252.253.254/hls/travelxp.m3u8
+#EXTINF:-1,Gazi TV
+http://10.252.253.254/hls/Gazi-TV.m3u8
+#EXTINF:-1,Sony Aath
+http://10.252.253.254/hls/Sony_Aath.m3u8
+#EXTINF:-1,Independent
+http://10.252.253.254/hls/indepen.m3u8
+#EXTINF:-1,Sun Bangla
+http://10.252.253.254/hls/sunbangla.m3u8
+#EXTINF:-1,Sony Pix
+http://10.252.253.254/hls/sonypixhd.m3u8
+#EXTINF:-1,Movies Now
+http://10.252.253.254/hls/movies-now.m3u8
+#EXTINF:-1,Star Movies
+http://10.252.253.254/hls/starmovies.m3u8
+#EXTINF:-1,MN+
+http://10.252.253.254/hls/mn+.m3u8
+#EXTINF:-1,Star World
+http://10.252.253.254/hls/star-worldhd.m3u8
+#EXTINF:-1,MNX
+http://10.252.253.254/hls/mnx-hd.m3u8
+#EXTINF:-1,Lotus Macau
+http://10.252.253.254/hls/lotus.m3u8
+#EXTINF:-1,BBC World
+http://10.252.253.254/hls/bbcworld.m3u8
+#EXTINF:-1,Al Jazeera
+http://10.252.253.254/hls/aljazeera.m3u8
+#EXTINF:-1,BBC Earth
+http://10.252.253.254/hls/bbcearth.m3u8
+#EXTINF:-1,Animal Planet
+http://10.252.253.254/hls/animalplanent.m3u8
+#EXTINF:-1,Discovery
+http://10.252.253.254/hls/discovery.m3u8
+#EXTINF:-1,National Geographic
+http://10.252.253.254/hls/ngohd.m3u8
+#EXTINF:-1,TLC
+http://10.252.253.254/hls/tlc.m3u8
+#EXTINF:-1,Wild
+http://10.252.253.254/hls/wild.m3u8
+#EXTINF:-1,Discovery Science
+http://10.252.253.254/hls/dis-science.m3u8
+#EXTINF:-1,AXN
+http://10.252.253.254/hls/axn.m3u8
+#EXTINF:-1,Dhinchak
+http://10.252.253.254/hls/dhin.m3u8
+#EXTINF:-1,Star Gold HD Dubbed
+http://10.252.253.254/hls/stargold.m3u8
+#EXTINF:-1,Star Gold Hindi
+http://15.1.5.14:8082/star-gold/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Zee TV
+http://10.252.253.254/hls/zeetv.m3u8
+#EXTINF:-1,Sony Max
+http://10.252.253.254/hls/sony-maxhd.m3u8
+#EXTINF:-1,Sony Entertainment Television
+http://10.252.253.254/hls/sonyen.m3u8
+#EXTINF:-1,Star Gold 2
+http://10.252.253.254/hls/stargold2hd.m3u8
+#EXTINF:-1,UTV Movies
+http://10.252.253.254/hls/utv.m3u8
+#EXTINF:-1,Colors Cineplex
+http://10.252.253.254/hls/colorscineplex.m3u8
+#EXTINF:-1,Star Plus
+http://10.252.253.254/hls/starplus.m3u8
+#EXTINF:-1,Zee Cinema HD
+http://10.252.253.254/hls/zeecinemahd.m3u8
+#EXTINF:-1,Colors HD
+http://10.252.253.254/hls/colore-tv-hd.m3u8
+#EXTINF:-1,&Pictures
+http://10.252.253.254/hls/andpictures.m3u8
+#EXTINF:-1,AUTV Action
+http://10.252.253.254/hls/utvaction.m3u8
+#EXTINF:-1,Zoom
+http://10.252.253.254/hls/zoom.m3u8
+#EXTINF:-1,9xM
+http://10.252.253.254/hls/9xm.m3u8
+#EXTINF:-1,Bindass
+http://10.252.253.254/hls/bindass.m3u8
+#EXTINF:-1,Star Sports 1
+http://10.252.253.254/hls/stersports1hd.m3u8
+#EXTINF:-1,Star Sports 2
+http://10.252.253.254/hls/starsports2.m3u8
+#EXTINF:-1,Star Sports 1 Select
+http://10.252.253.254/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:-1,Star Sports 1 Select
+http://10.252.253.254/hls/select2.m3u8
+#EXTINF:-1,Sony Six
+http://10.252.253.254/hls/sonysix.m3u8
+#EXTINF:-1,Sony Ten 1
+http://10.252.253.254/hls/sonyten1.m3u8
+#EXTINF:-1,Sony Ten 2
+http://10.252.253.254/hls/sonyten2.m3u8
+#EXTINF:-1,Sony Ten 3
+http://10.252.253.254/hls/sonyten3.m3u8
+#EXTINF:-1,Ten Sports
+http://10.252.253.254/hls/ten.m3u8
+#EXTINF:-1,Bein Sports 1
+http://10.252.253.254/hls/bein1.m3u8
+#EXTINF:-1,Sony YAY
+http://10.252.253.254/hls/dis-kid.m3u8
+#EXTINF:-1,NICK
+http://10.252.253.254/hls/nick.m3u8
+#EXTINF:-1,Cartoon Network
+http://10.252.253.254/hls/cn.m3u8
+#EXTINF:-1,POGO
+http://10.252.253.254/hls/pogo.m3u8
+#EXTINF:-1,T Sports Backup
+http://172.16.50.2:8082/T-Sports/tracks-v1a1/mono.m3u8
+#EXTINF:-1,T Sports Backup
+http://15.1.5.14:8082/TSPORTS-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,GTV Backup
+http://172.16.50.2:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,PTV Sports
+http://172.16.50.2:8082/PTV-Sports/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Sports 1 Backup 1
+http://172.16.50.2:8082/Star-Sports-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Sports 1 Backup 2
+http://15.1.5.14:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Sports 2 Backup
+http://172.16.50.2:8082/Star-Sports-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ten Sports Backup
+http://172.16.50.2:8082/Ten-Sports/tracks-v1a1/mono.m3u8
+#EXTINF:-1,GTV Backup
+http://15.1.5.14:8082/GAZI-TV-HD/tracks-v1a1/mono.m3u8
